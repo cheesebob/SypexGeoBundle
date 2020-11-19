@@ -15,20 +15,19 @@
     ],
     "autoload": {
         "psr-4": {
-            "Yamilovs\\Bundle\\SypexGeoBundle\\": "src/"
+            "Alexeyfedotof\\Bundle\\SypexGeoBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yamilovs\\Bundle\\SypexGeoBundle\\Tests\\": "tests/"
+            "Alexeyfedotof\\Bundle\\SypexGeoBundle\\Tests\\": "tests/"
         }
     },
     "require": {
         "php": "^7.2",
         "ext-zip": "*",
         "guzzlehttp/guzzle": "^6.0",
-        "symfony/framework-bundle": "^3.4|^5.1",
-        "alexeyfedotof/sypex-geo": "^1.0"
+        "symfony/framework-bundle": "^5.1"        
     },
     "require-dev": {
         "phpunit/phpunit": "^8.3",
