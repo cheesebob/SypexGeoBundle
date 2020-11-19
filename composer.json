@@ -1,10 +1,10 @@
 {
-    "name": "yamilovs/sypex-geo-bundle",
+    "name": "alexeyfedotof/sypex-geo-bundle",
     "description": "An adaptation of SypexGeo library to Symfony Bundle system",
     "keywords": [
         "sypexgeo", "position", "ip location", "geoip"
     ],
-    "homepage": "https://github.com/yamilovs/SypexGeoBundle",
+    "homepage": "https://github.com/CreativeSeo33/SypexGeoBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
