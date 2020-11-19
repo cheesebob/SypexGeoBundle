@@ -27,7 +27,7 @@
         "php": "^7.2",
         "ext-zip": "*",
         "guzzlehttp/guzzle": "^6.0",
-        "symfony/framework-bundle": "^3.4|^4.2",
+        "symfony/framework-bundle": "^3.4|^5.1",
         "yamilovs/sypex-geo": "^1.0"
     },
     "require-dev": {
