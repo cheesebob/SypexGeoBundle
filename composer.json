@@ -24,7 +24,7 @@
         }
     },
     "require": {
-        "php": "^7.2",        
+        "php": "^8.0",        
         "guzzlehttp/guzzle": "^6.0",
         "symfony/framework-bundle": "^5.1",
         "yamilovs/sypex-geo": "^1.0"
